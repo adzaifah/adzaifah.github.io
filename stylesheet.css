@@ -1,0 +1,95 @@
+body {
+    background-color:#ecffbf ;
+}
+h1 {
+    text-align: center;
+    font-family: Algerian;
+    color: #0f0f88;
+    background-color: #809fff;
+}
+table {
+    align: center;
+    width: 765px;
+    margin: auto;
+    border: 3px solid #001a66;
+    padding: 0px;
+}
+th {
+    text-align: center;
+}
+td {
+    text-align: center;
+    border: 2px solid #001a66;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+tr:nth-child(even) {
+    align-content: center;
+    background-color: #def8a3; 
+}
+ul {
+    text-align: left;
+}
+h2 {
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 21px;
+    color: #0f0f88;
+    background-color: #a7bdff;
+}
+p {
+    text-align: justify;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-inline-end: 50px;
+}
+.header {
+    background-color: #ffa31a;
+}
+.column-width-a {
+    width: 175px;
+}
+.column-width-b {
+    width: 355px;
+}
+.column-width-c {
+    width: 235px;
+}
+.picture {
+    align: center;
+    width: 225px;
+    height: 315px;
+}
+.margin-end {
+    margin-bottom: 50px;
+}
+.box {
+    border-color:#d0f182;
+    border-width: 3px;
+}
+#ul-a {
+    list-style-type: disc;
+}
+#ul-b {
+    list-style-type: none;
+}
+.button {
+    transition-duration: 0.3s;
+    background-color: #f4ffd9;
+    padding: 3px 29px;
+    border-left: 2px solid #ffd381;
+    border-bottom: 2px solid #ffd381;
+    border-top: 2px solid #ffd381;
+    border-right: 0px;
+    border-radius: 9%;
+    font-size: 95%;
+    font-family: Cambria;
+    float: right;
+    cursor: not-allowed;
+}
+.button:hover {
+    background-color: #ffd381;
+    color:rgb(163, 163, 163);
+}
