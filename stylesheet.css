@@ -6,6 +6,7 @@ h1 {
     font-family: Algerian;
     color: #0f0f88;
     background-color: #809fff;
+    margin-bottom: 15px
 }
 table {
     align: center;
@@ -32,11 +33,13 @@ ul {
 }
 h2 {
     text-align: center;
-    padding-top:15px ;
+    padding-top: 15px ;
     font-family: Tahoma;
-    font-size: 21px;
+    font-size: 23px;
     color: #0f0f88;
     background-color: #a7bdff;
+    padding-bottom: 9px;
+    background-clip: content-box;
 }
 p {
     text-align: justify;
