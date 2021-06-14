@@ -5,20 +5,25 @@ body {
 .jumbotron{
     color: #2c3e50;
     background-color: #ecf0f1;
+    display: flow root;
+    margin-bottom: 19 px;
 }
 h1 {
     text-align: center;
-    font-family: 15px Copperplate;
+    font-family: cursive;
+    font-style: italic;
+    font-size: xxx-large;
+    font-weight: 700;
     color: #0f0f88;
+    padding-top: 7px;
 }
-p {
-    font-family: Georgia;
+p {    
+    font-family: cursive;
+    font-size: unset;
     text-align: center;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-inline-end: 50px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    padding-bottom: 10px;
 }
 .button {
     transition-duration: 0.3s;
