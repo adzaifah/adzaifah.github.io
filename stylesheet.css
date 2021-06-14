@@ -33,17 +33,17 @@ ul {
 }
 h2 {
     text-align: center;
-    padding-top: 15px ;
+    padding-top: 29px ;
     font-family: Tahoma;
     font-size: 23px;
     color: #0f0f88;
     background-color: #a7bdff;
-    padding-bottom: 9px;
+    padding-bottom: 3px;
     background-clip: content-box;
 }
 p {
     text-align: justify;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-bottom: 30px;
     margin-left: 50px;
     margin-right: 50px;
